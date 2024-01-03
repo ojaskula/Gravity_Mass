@@ -1,9 +1,9 @@
 # Gravity_Mass
-Simple processing project
+Simple and fun, visually appealing processing app
 
 # Overwiew
-At the press of a mouse, the random mass object should appear. The object will initialy has a certain velocity in a random direction. 
-The objects are affected by the gravity center, at the ceneter of the screen. 
+At the press of a mouse, the random mass object appear. The object will spawn with a random velocity value pointed in a random direction. 
+The objects are affected by the gravity point at the ceneter of the screen. 
 
 # Screenshots 
 
